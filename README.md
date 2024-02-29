@@ -15,7 +15,7 @@ A simple text editor implemented in Java using Swing components. This text edito
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your_username/java-text-editor.git
+    git clone https://github.com/MaverickWingman/java-text-editor.git
     ```
 
 2. Open the project in your favorite Java IDE.
